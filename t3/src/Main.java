@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+
+        //input
+        Scanner in = new Scanner(System.in);
+        int m = in.nextInt();//rent rate
+        int k = in.nextInt();//delivery fee
+        int n = in.nextInt();//next n days price
+        int[] arr = new int[n];
+        for(int i = 0;i<n;i++){
+            arr[i]= in.nextInt();
+        }
+
+        //occupy repo x days
+        int x = 0;
+        int income;
+        int[][] arrBuySell = new int[n][];
+
+
+
+
+
+    }
+}
