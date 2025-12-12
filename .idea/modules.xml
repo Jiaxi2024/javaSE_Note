@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AdvancedCollections/AdvancedCollections.iml" filepath="$PROJECT_DIR$/AdvancedCollections/AdvancedCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/algorithm/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orient_Objection/Orient_Objection.iml" filepath="$PROJECT_DIR$/Orient_Objection/Orient_Objection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/practise1/practise1.iml" filepath="$PROJECT_DIR$/practise1/practise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_knowledge/basic_knowledge.iml" filepath="$PROJECT_DIR$/basic_knowledge/basic_knowledge.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/search_algorithm/search_algorithm.iml" filepath="$PROJECT_DIR$/algorithm/search_algorithm/search_algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/sort_algorithm/sort_algorithm.iml" filepath="$PROJECT_DIR$/algorithm/sort_algorithm/sort_algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/stringMarch_algorithm/stringMarch_algorithm.iml" filepath="$PROJECT_DIR$/algorithm/stringMarch_algorithm/stringMarch_algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/t2/t2.iml" filepath="$PROJECT_DIR$/t2/t2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/t3/t3.iml" filepath="$PROJECT_DIR$/t3/t3.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>
   </component>
